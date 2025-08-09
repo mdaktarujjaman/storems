@@ -1,0 +1,1 @@
+<p class="text-center">Store Manegement System | Copyright: <a href="https://thegraptech.com" class="text-dark text-decoration-none p-2 btn btn-warning py-1 m-0">GrapTech</a></p>
